@@ -8,4 +8,4 @@ npm install
 npm start
 ```
 
-This will open a development server at [http://localhost:3000](http://localhost:3000).
+This will open a development server at [http://localhost:1234](http://localhost:1234).
